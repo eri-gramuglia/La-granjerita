@@ -1,2 +1,2 @@
-# programacion1
+# PruebaGitHub
 Created with CodeSandbox
