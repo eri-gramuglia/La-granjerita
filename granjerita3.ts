@@ -1,0 +1,10 @@
+console.log("girar a la izquierda");
+console.log("dar un paso");
+console.log("girar a la derecha");
+console.log("dar un paso");
+console.log("dar un paso");
+console.log("girar a la derecha");
+console.log("dar un paso");
+console.log("dar un paso");
+console.log("quitar1");
+console.log("llegó");
