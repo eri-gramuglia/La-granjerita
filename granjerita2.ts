@@ -1,0 +1,12 @@
+console.log("dar un paso");
+console.log("poner1");
+console.log("dar un paso");
+console.log("dar un paso");
+console.log("dar un paso");
+console.log("poner1");
+console.log("dar un paso");
+console.log("quitar1");
+console.log("dar un paso");
+console.log("quitar1");
+console.log("dar un paso");
+console.log("llegó");
